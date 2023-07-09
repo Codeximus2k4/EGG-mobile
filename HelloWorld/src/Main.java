@@ -44,7 +44,7 @@ public class Main {
 					System.out.println(i+" "+listnhanvien.get(i).getName()+" "+listnhanvien.get(i).getSalary()+" "+listnhanvien.get(i).getRole());
 				}
 			}
-			else if (choice==5) 
+			else if (choice==5) //
 			{
 				System.out.println("ID name Role");
 				for (int i=0;i<listnhanvien.size();i++) 
